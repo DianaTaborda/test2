@@ -1,0 +1,19 @@
+body{
+
+  background-color:#FFE4B5;
+  
+}
+#form{
+  float-left: 50px #000;
+  width: 300px;
+  border-top: 20px;
+  border-left:20px;
+  border-bottom: 20px;
+  border-right: 20px; 
+  color:black;
+  background-color:#FFFFE0;
+  position: center;
+  border-color: #000;
+
+
+}
